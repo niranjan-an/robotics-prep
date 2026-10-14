@@ -1,0 +1,16 @@
+# Python & AI weights
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pt
+*.onnx
+*.mp4
+
+# C++ & ROS 2 build artifacts
+build/
+install/
+log/
+*.o
+*.out
+*.exe
